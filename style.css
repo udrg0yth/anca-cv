@@ -117,13 +117,19 @@ ul {
   top: 0;
 }
 
-.columns div:nth-child(2) {
-  width: 100%;
-  margin: 0 auto;
-  text-align: center;
+.box {
+  padding:20px
 }
 
-.columns div:nth-child(3) {
+.sub {
+  font-size:18px;
+}
+
+.sm-div {
+  margin:5px;
+}
+
+.columns div:nth-child(2) {
   position: absolute;
   right: 0;
   top: 0;
